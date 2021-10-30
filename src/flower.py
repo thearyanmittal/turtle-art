@@ -20,6 +20,5 @@ def polygon(length, angle, step):
             right(angle+c)
 
 
-#pencolor('black')
 polygon(50, 90, 255)
 exitonclick()
